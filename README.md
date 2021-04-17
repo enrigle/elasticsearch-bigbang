@@ -4,9 +4,9 @@
 - Go to https://www.elastic.co/es/downloads/elasticsearch
 - For macos: download `MACOS shaasc` file
 - Unzip the elasticserch folder 
-- Change to that directory
-- Run `bin/elasticsearch` on the terminal
-- Test that it is workking by going to the URL: http://localhost:9200/
+- Change your working directory to the unzip directory
+- Run `bin/elasticsearch` on your terminal
+- Test that ES is working by going to the URL: http://localhost:9200/
 - The following message should appear:
 
     {
